@@ -1,28 +1,40 @@
-byteoversea.com
-cdninstagram.com
-cdnxvideos.com
-facebook.com
-fbcdn.com
-fbcdn.net
-googlevideo.com
-hadesex.com
-instagram.cdninstagram.com
-instagram.com
-messenger.com
-musical.ly
-pddpic.com
-sexcomix2.com
-teensolovideosex.com
-temu.ca
-temu.com
-temu.eu
-temu.global
-tiktok.com
-tiktokcdn.com
-tiktokv.com
-ttwstatic.com
-whatsapp.net
-xvideos.com
-youtube.com
-youtubei.googleapis.com
-ytimg.com
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: The Block List Crianças List
+# Expires: 1 day
+# Homepage: https://polpas/blocked_lists
+# License: https://unlicensed.org
+# ------------------------------------[SUPPORT]-------------------------------------
+# You can support by:
+# - reporting false positives
+# -------------------------------------[INFO]---------------------------------------
+#
+# Criancas block list
+# ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0 byteoversea.com
+0.0.0.0 cdninstagram.com
+0.0.0.0 cdnxvideos.com
+0.0.0.0 facebook.com
+0.0.0.0 fbcdn.com
+0.0.0.0 fbcdn.net
+0.0.0.0 googlevideo.com
+0.0.0.0 hadesex.com
+0.0.0.0 instagram.cdninstagram.com
+0.0.0.0 instagram.com
+0.0.0.0 messenger.com
+0.0.0.0 musical.ly
+0.0.0.0 pddpic.com
+0.0.0.0 sexcomix2.com
+0.0.0.0 teensolovideosex.com
+0.0.0.0 temu.ca
+0.0.0.0 temu.com
+0.0.0.0 temu.eu
+0.0.0.0 temu.global
+0.0.0.0 tiktok.com
+0.0.0.0 tiktokcdn.com
+0.0.0.0 tiktokv.com
+0.0.0.0 ttwstatic.com
+0.0.0.0 whatsapp.net
+0.0.0.0 xvideos.com
+0.0.0.0 youtube.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 ytimg.com
